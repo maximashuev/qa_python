@@ -11,3 +11,4 @@ for i in lst:
         if "е" not in g:
             output+=1
 print(output)
+
